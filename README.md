@@ -22,6 +22,6 @@ SIMPLE CRUD with Mysql, Express, React, Node.JS
   npm i axios bulma react-router-dom
 ```
 
-3. create database name `crud_db`
+3. create database name `upload_db`
 4. run `nodemon`
 5. `npm start`
